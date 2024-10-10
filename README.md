@@ -2,6 +2,8 @@
 
 「本地化大师」是一款专为iOS/macOS开发者和本地化团队打造的Mac端应用程序。它旨在简化Localizable.xcstrings文件的本地化工作流程,提高工作效率,并确保高质量的本地化结果。
 
+[立即在 Mac App Store 下载](https://apps.apple.com/us/app/localization-master/id6504154553?mt=12)
+
 ## 主要特性
 
 - **智能解析**: 自动解析Localizable.xcstrings文件,精确识别需要翻译的文本。
@@ -13,7 +15,8 @@
 ## 使用指南
 
 1. **安装与启动**
-   - 下载并安装「本地化大师」到您的Mac。
+   - [从 Mac App Store 下载](https://apps.apple.com/us/app/localization-master/id6504154553?mt=12)并安装「本地化大师」到您的Mac。
+   
    - 启动应用程序。
 
 2. **导入文件**
@@ -49,5 +52,6 @@
 - 提交GitHub Issue 
 - 或者直接在应用中提交反馈
 
-
 「本地化大师」 - 让iOS/macOS应用本地化变得简单高效!
+
+[立即下载体验](https://apps.apple.com/us/app/localization-master/id6504154553?mt=12)
