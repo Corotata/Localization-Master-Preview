@@ -26,7 +26,7 @@ Localization Master is a powerful Mac application designed for iOS/macOS develop
    - Launch the application.
 
 2. **Import .xcstrings File**
-   - Drag and drop your Localizable.xcstrings file into the application window.
+   - Drag and drop your **Localizable.xcstrings**  file into the application window.
 
 3. **Choose Translation Service or Import External Translations**
    - Select your preferred translation service in the "Translation Services" tab.
@@ -36,7 +36,7 @@ Localization Master is a powerful Mac application designed for iOS/macOS develop
    - Review, edit, or supplement translation content.
 
 5. **Sync to Xcode**
-   - After translation, click the "Sync to Source File" button to update the original Localizable.xcstrings file.
+   - After translation, click the **Sync to Source File** button to update the original Localizable.xcstrings file.
 
 ## Advanced Feature: External Translation Content Management
 
@@ -44,7 +44,7 @@ Localization Master not only provides built-in translation services but also sup
 
 1. Use your preferred translation tool or AI service for translation (e.g., OpenAI, DeepL).
 2. Organize the translation results in JSON format and copy to the clipboard.
-3. In Localization Master, select File -> Paste and Import Translation Content from Clipboard (or use the shortcut Command + Shift + V).
+3. In Localization Master, select **File -> Paste and Import Translation Content from Clipboard** (or use the shortcut **Command + Shift + V**).
 4. Localization Master will automatically import and manage these translations, allowing you to easily synchronize them to your Xcode project.
 
 This feature makes Localization Master the central hub for managing and synchronizing Localizable.xcstrings translation content, regardless of the translation source.

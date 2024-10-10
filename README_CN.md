@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/logo.png" height=120>
+</p>
+
+## <div align="center"><b><a href="README.md">English</a> | <a href="README_CN.md">简体中文</a></b></div>
+
 # 本地化大师 (Localization Master)
 
 「本地化大师」是一款专为iOS/macOS开发者和本地化团队打造的Mac端应用程序。它旨在简化Localizable.xcstrings文件的本地化工作流程，提高工作效率，并确保高质量的本地化结果。
@@ -19,7 +25,7 @@
    - 启动应用程序。
 
 2. **导入.xcstrings文件**
-   - 将Localizable.xcstrings文件拖拽到应用程序窗口中。
+   - 将**Localizable.xcstrings**文件拖拽到应用程序窗口中。
 
 3. **选择翻译服务或导入外部翻译**
    - 在「翻译服务」选项卡中，选择您偏好的翻译服务。
@@ -29,7 +35,7 @@
    - 审核、编辑或补充翻译内容。
 
 5. **同步到Xcode**
-   - 翻译完成后，点击「同步到源文件」按钮，将翻译结果更新到原始的Localizable.xcstrings文件。
+   - 翻译完成后，点击「同步到源文件」按钮，将翻译结果更新到原始的**Localizable.xcstrings**文件。
 
 ## 高级功能: 外部翻译内容管理
 
@@ -37,10 +43,10 @@
 
 1. 使用您偏好的翻译工具或AI服务进行翻译（如OpenAI、DeepL等）。
 2. 将翻译结果整理为JSON格式，并复制到剪贴板。
-3. 在「本地化大师」中，选择 文件 -> 从剪贴板粘贴并导入翻译内容（或使用快捷键 Command + Shift + V）。
+3. 在「本地化大师」中，选择 **文件 -> 从剪贴板粘贴并导入翻译内容**（或使用快捷键 **Command + Shift + V**）。
 4. 「本地化大师」将自动导入并管理这些翻译内容，让您可以轻松地将其同步到Xcode项目中。
 
-这一功能使「本地化大师」成为您管理和同步Localizable.xcstrings翻译内容的中心枢纽，无论翻译来源如何。
+这一功能使「本地化大师」成为您管理和同步**Localizable.xcstrings**翻译内容的中心枢纽，无论翻译来源如何。
 
 ## 功能演示视频
 
@@ -66,7 +72,7 @@
 
 ## 注意事项
 
-- 本应用专门用于管理和同步Localizable.xcstrings文件的翻译内容。
+- 本应用专门用于管理和同步**Localizable.xcstrings**文件的翻译内容。
 - 同步到源文件时会覆盖原文件内容，请提前备份重要数据。
 - 详细使用说明和最佳实践请参考应用内的帮助文档。
 
@@ -84,5 +90,3 @@
 「本地化大师」 - 让iOS/macOS应用本地化管理变得简单高效！
 
 [立即下载体验](https://apps.apple.com/us/app/localization-master/id6504154553?mt=12)
-
-[English Version](README.md)
