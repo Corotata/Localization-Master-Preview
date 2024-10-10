@@ -1,0 +1,229 @@
+[
+  {
+    "targetLanguage": "fil",
+    "key": "确认覆盖？",
+    "body": "确认覆盖？",
+    "sourceLanguage": "zh-Hans",
+    "result": "Kumpirmahin ang pag-override?"
+  },
+  {
+    "sourceLanguage": "zh-Hans",
+    "body": "添加",
+    "key": "添加",
+    "targetLanguage": "fil",
+    "result": "Idagdag"
+  },
+  {
+    "sourceLanguage": "zh-Hans",
+    "key": "全部语言",
+    "body": "全部语言",
+    "targetLanguage": "fil",
+    "result": "Lahat ng Wika"
+  },
+  {
+    "key": "翻译中，请稍候...",
+    "body": "翻译中，请稍候...",
+    "targetLanguage": "fil",
+    "sourceLanguage": "zh-Hans",
+    "result": "Isinasalin, mangyaring maghintay..."
+  },
+  {
+    "key": "反馈内容",
+    "body": "反馈内容",
+    "targetLanguage": "fil",
+    "sourceLanguage": "zh-Hans",
+    "result": "Nilalaman ng Feedback"
+  },
+  {
+    "key": "总计需要翻译%lld条数据",
+    "body": "总计需要翻译%lld条数据",
+    "sourceLanguage": "zh-Hans",
+    "targetLanguage": "fil",
+    "result": "Kabuuang %lld na data ang kailangang isalin"
+  },
+  {
+    "key": "加载失败，请重新导入源文件",
+    "sourceLanguage": "zh-Hans",
+    "body": "加载失败，请重新导入源文件",
+    "targetLanguage": "fil",
+    "result": "Nabigo ang pag-load, mangyaring muling i-import ang source file"
+  },
+  {
+    "body": "恭喜！\n您已添加了所有主流语言。",
+    "key": "恭喜！\n您已添加了所有主流语言。",
+    "targetLanguage": "fil",
+    "sourceLanguage": "zh-Hans",
+    "result": "Binabati kita!\nNaidagdag mo na ang lahat ng pangunahing wika."
+  },
+  {
+    "key": "系统信息",
+    "body": "系统信息",
+    "targetLanguage": "fil",
+    "sourceLanguage": "zh-Hans",
+    "result": "Impormasyon ng Sistema"
+  },
+  {
+    "key": "所有的翻译内容及修改都会同步到原文件中，请提前做好备份，以避免不必要的影响。",
+    "body": "所有的翻译内容及修改都会同步到原文件中，请提前做好备份，以避免不必要的影响。",
+    "comment": "同步到原文件提示",
+    "targetLanguage": "fil",
+    "sourceLanguage": "zh-Hans",
+    "result": "Ang lahat ng mga pagsasalin at pagbabago ay ise-sync sa orihinal na file. Mangyaring gumawa ng backup nang maaga upang maiwasan ang hindi kinakailangang epekto."
+  },
+  {
+    "sourceLanguage": "zh-Hans",
+    "key": "prompt已复制到剪切板，请访问ChatXXX网站进行粘贴提问，然后将获取的JSON内容复制回来，并使用 Command+Shift+V 在应用界面中进行粘贴导入。",
+    "targetLanguage": "fil",
+    "body": "prompt已复制到剪切板，请访问ChatXXX网站进行粘贴提问，然后将获取的JSON内容复制回来，并使用 Command+Shift+V 在应用界面中进行粘贴导入。",
+    "result": "Na-copy na ang prompt sa clipboard. Pakibisita ang ChatXXX website para i-paste ang iyong tanong, pagkatapos ay i-copy ang nakuha mong JSON at gamitin ang Command+Shift+V para i-paste at i-import sa application."
+  },
+  {
+    "sourceLanguage": "zh-Hans",
+    "body": "当前仅支持xcstrings文件",
+    "key": "当前仅支持xcstrings文件",
+    "targetLanguage": "fil",
+    "result": "Tanging mga xcstrings file lang ang kasalukuyang sinusuportahan"
+  },
+  {
+    "body": "储存",
+    "sourceLanguage": "zh-Hans",
+    "targetLanguage": "fil",
+    "key": "储存",
+    "result": "I-save"
+  },
+  {
+    "targetLanguage": "fil",
+    "sourceLanguage": "zh-Hans",
+    "key": "翻译完成",
+    "body": "翻译完成",
+    "result": "Tapos na ang pagsasalin"
+  },
+  {
+    "targetLanguage": "fil",
+    "key": "主页",
+    "sourceLanguage": "zh-Hans",
+    "body": "主页",
+    "result": "Pahina ng Bahay"
+  },
+  {
+    "comment": "试用次数已用完提示",
+    "targetLanguage": "fil",
+    "key": "请订阅后再试用此功能。",
+    "body": "请订阅后再试用此功能。",
+    "sourceLanguage": "zh-Hans",
+    "result": "Mangyaring mag-subscribe bago gamitin ulit ang tampok na ito."
+  },
+  {
+    "sourceLanguage": "zh-Hans",
+    "targetLanguage": "fil",
+    "key": "添加键",
+    "body": "添加键",
+    "result": "Idagdag ang Key"
+  },
+  {
+    "body": "源文件数据已重新加载",
+    "key": "源文件数据已重新加载",
+    "sourceLanguage": "zh-Hans",
+    "targetLanguage": "fil",
+    "result": "Muling na-load ang source file data"
+  },
+  {
+    "body": "关闭",
+    "sourceLanguage": "zh-Hans",
+    "key": "关闭",
+    "targetLanguage": "fil",
+    "result": "Isara"
+  },
+  {
+    "key": "目标语言",
+    "sourceLanguage": "zh-Hans",
+    "body": "目标语言",
+    "targetLanguage": "fil",
+    "result": "Target na Wika"
+  },
+  {
+    "body": "导出成功，本次操作已消耗1次免费使用次数",
+    "key": "导出成功，本次操作已消耗1次免费使用次数",
+    "sourceLanguage": "zh-Hans",
+    "targetLanguage": "fil",
+    "result": "Matagumpay na nai-export, ang operasyong ito ay gumamit ng 1 libreng paggamit"
+  },
+  {
+    "targetLanguage": "fil",
+    "sourceLanguage": "zh-Hans",
+    "key": "立即翻译",
+    "body": "立即翻译",
+    "result": "Isalin Ngayon"
+  },
+  {
+    "sourceLanguage": "zh-Hans",
+    "targetLanguage": "fil",
+    "key": "成功导入了%lld条翻译数据。",
+    "body": "成功导入了%lld条翻译数据。",
+    "result": "Matagumpay na na-import ang %lld na pagsasalin."
+  },
+  {
+    "targetLanguage": "fil",
+    "body": "同步到源文件",
+    "key": "同步到源文件",
+    "sourceLanguage": "zh-Hans",
+    "result": "I-sync sa source file"
+  },
+  {
+    "body": "导出成功",
+    "targetLanguage": "fil",
+    "sourceLanguage": "zh-Hans",
+    "key": "导出成功",
+    "result": "Matagumpay na Nai-export"
+  },
+  {
+    "key": "当次剩余免费试用次数(%lld)次",
+    "body": "当次剩余免费试用次数(%lld)次",
+    "targetLanguage": "fil",
+    "sourceLanguage": "zh-Hans",
+    "result": "Natitirang libreng paggamit ngayong pagkakataon (%lld)"
+  },
+  {
+    "sourceLanguage": "zh-Hans",
+    "targetLanguage": "fil",
+    "body": "🎉",
+    "key": "🎉",
+    "result": "🎉"
+  },
+  {
+    "key": "确定",
+    "targetLanguage": "fil",
+    "sourceLanguage": "zh-Hans",
+    "body": "确定",
+    "result": "Tiyakin"
+  },
+  {
+    "targetLanguage": "fil",
+    "sourceLanguage": "zh-Hans",
+    "body": "快捷键",
+    "key": "快捷键",
+    "result": "Mga Shortcut"
+  },
+  {
+    "targetLanguage": "fil",
+    "key": "选择要添加的语言:",
+    "body": "选择要添加的语言:",
+    "sourceLanguage": "zh-Hans",
+    "result": "Piliin ang wikang idaragdag:"
+  },
+  {
+    "key": "立即订阅",
+    "body": "立即订阅",
+    "sourceLanguage": "zh-Hans",
+    "targetLanguage": "fil",
+    "result": "Mag-subscribe Ngayon"
+  },
+  {
+    "key": "同步成功，本次更新操作已消耗1次免费使用次数",
+    "body": "同步成功，本次更新操作已消耗1次免费使用次数",
+    "targetLanguage": "fil",
+    "sourceLanguage": "zh-Hans",
+    "result": "Matagumpay na na-sync, ang pag-update na ito ay gumamit ng 1 libreng paggamit"
+  }
+]
+
